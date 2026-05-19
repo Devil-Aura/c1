@@ -1,0 +1,5 @@
+# Video Cover/Thumbnail Bot — Requirements
+# Install with: pip install -r requirements.txt
+
+# python-telegram-bot v21.10+ required for 'cover' parameter (Bot API 8.3+)
+python-telegram-bot==21.10
